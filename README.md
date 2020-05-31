@@ -59,3 +59,12 @@ globalconstants.h: hold all the constants of the projects.</br>
 Note:
 To be able to use LBPHFaceRecognizer in opencv, build opencv with extra module of FaceRecognizer.
 
+<h2> Application screenshot </h2>
+
+Main window: 
+
+![alt text](https://github.com/noumanyosuf/face-detetection-using-opencv/blob/master/FaceRecognizer_2.jpg)
+
+Register window: 
+
+![alt text](https://github.com/noumanyosuf/face-detetection-using-opencv/blob/master/FaceRecognizer_1.jpg)
