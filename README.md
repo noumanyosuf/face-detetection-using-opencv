@@ -45,7 +45,7 @@ The recognizer generates a histogram for that new picture.
 It then compares that histogram with the histograms it already has.
 Finally, it finds the best match and returns the person label associated with that best match.
 
-Please read https://iq.opengenus.org/lbph-algorithm-for-face-recognition/ to understand about LBPH algorithm in detail.
+Please read https://en.wikipedia.org/wiki/Local_binary_patterns to understand about LBPH algorithm in detail.
 
 <h2> About implementation </h2>
 Below is brief description on the list of classes in the projects:</br>
